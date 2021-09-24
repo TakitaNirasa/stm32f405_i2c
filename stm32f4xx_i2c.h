@@ -2,7 +2,6 @@
 
 
 #include "stm32f405xx.h"
-#include "ll/stm32/stm32gpio.h"
 #include "sysclock.h"
 #include <stdbool.h>
 #include <stddef.h>
